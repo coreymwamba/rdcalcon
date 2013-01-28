@@ -7,4 +7,4 @@ The PHP script wil scrape an HTML page or fragment for iCalendar data expressed 
 
 It's supposed to work as an endpoint.
 
-It currently follows the model described here: <http://www.coreymwamba.co.uk/testbed/caltest2.html> which is a vendor-agnostic ways of annotating events to HTML using RDFa.
+It currently follows the model described here: <http://www.coreymwamba.co.uk/testbed/caltest2.html> which is a vendor-agnostic way of annotating events to HTML using RDFa.
