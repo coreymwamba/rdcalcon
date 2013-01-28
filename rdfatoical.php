@@ -52,7 +52,7 @@ $sxe->saveXML();
 
 //Load in the XSLT which does the magic
 $xsl = new DOMDocument;
-$xsl->load('http://www.coreymwamba.co.uk/styles/xsl/rdfatoical.xsl');
+$xsl->load('rdfatoical.xsl');
 
 // Configure the transformer
 
